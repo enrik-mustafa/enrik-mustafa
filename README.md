@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enrik Mustafa</h1>
 <h3 align="center">Your WiFi hacker next door</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enrik-mustafa&label=Profile%20views&color=0e75b6&style=flat" alt="enrik-mustafa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=enrik-mustafa&label=Profile%20views&color=0e75b6&style=flat" alt="enrik-mustafa" /> </p>
 
 - 🔭 I’m currently working on **OSINT Tools**
 
